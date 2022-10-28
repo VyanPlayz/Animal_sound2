@@ -1,0 +1,43 @@
+body{
+    background: aqua;
+}
+.header_div{
+    background: deepskyblue;
+    color: white;
+}
+.header_div p{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: monospace;
+    color: lightgreen;
+    letter-spacing: 3px;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-family: Roboto , cursive;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.footer{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: deepskyblue;
+    line-height: 3;
+    text-shadow: 5px 5px 5px gray;
+}
+h4{
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+.footer h3{
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    font-family: 'Russo One', sans-serif;
+}
